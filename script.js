@@ -40,37 +40,37 @@ const All_song = [
   {
     path: "song1.mp3",
     img: "img1.jpg",
-    singer: "AAJ KI RAT - Mr . And Mrs. Mahi",
+    singer: "AAJ KI RAT -Stree ",
   },
   {
     path: "song2.mp3",
     img: "img2.jpg",
-    singer: " AAYI NAI - Asees Kaur",
+    singer: " AAYI NAI - Stree 2",
   },
   {
     path: "song3.mp3",
     img: "img3.jpg",
-    singer: " AGAR HO TUM -  Chandu Champion",
+    singer: " AGAR HO TUM -  Mr. & Mrs. Mahi",
   },
   {
     path: "song4.mp3",
     img: "img4.jpg",
-    singer: " HALKI HALKI SI - Sarfira ",
+    singer: " HALKI HALKI SI BARSAAT ",
   },
   {
     path: "song5.mp3",
     img: "img5.jpg",
-    singer: "  KHUNDAY - Stree 2",
+    singer: "  KHUDAYA - Khudaya",
   },
   {
     path: "song6.mp3",
     img: "img6.jpg",
-    singer: " MERE MEHBOOB MERE SANAM - Bad News",
+    singer: " MERE MEHBOOB MERE SANAM - My Beloved, My Darling",
   },
   {
     path: "song7.mp3",
     img: "img7.jpg",
-    singer: " TU HI HYE CHAMPION - Bad News",
+    singer: " TU HI HYE CHAMPION - Chandu Champion",
   },
 ];
 
